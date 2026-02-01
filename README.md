@@ -15,7 +15,5 @@ This project runs locally using XAMPP.
 
 ## Preview
 
-git add .
-git commit -m "Add project Screenshot"
-git push
+
 
