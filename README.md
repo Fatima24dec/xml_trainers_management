@@ -12,3 +12,8 @@ Simple CRUD project using:
 
 ## Notes
 This project runs locally using XAMPP.
+
+## Preview
+
+![Project Screenshot](Screenshots/home.png)
+
