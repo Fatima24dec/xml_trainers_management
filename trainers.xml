@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="trainersxs.xsl"?>
+<trainers>
+
+ <trainer>
+  <name>layan Faisal</name>
+  <email>kh242305@ic.edu.sa</email>
+  <course>SD</course>
+ </trainer>
+
+ <trainer>
+   <name>Shahad Mohammed</name>
+   <email>kh242204@ic.edu.sa</email>
+   <course>IT</course>
+ </trainer>
+
+ <trainer>
+   <name>Dana Fahad</name>
+   <email>kh242406@ic.edu.sa</email>
+   <course>GD</course>
+</trainer>
+
+ <trainer>
+   <name>Salman Mohammed</name>
+   <email>kh242409@ic.edu.sa</email>
+   <course>SE</course>
+</trainer>
+
+ <trainer>
+   <name>Fahad Mohammed</name>
+   <email>kh242401@ic.edu.sa</email>
+   <course>GD</course>
+</trainer>
+
+</trainers>
